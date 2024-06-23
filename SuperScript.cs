@@ -7,7 +7,7 @@ public class SuperScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("TEEEST");
+        Debug.Log("TEEEEST");
     }
 
     // Update is called once per frame
